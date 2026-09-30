@@ -1,2 +1,3 @@
-# PracticaPosgreS7
-Practica de CRUD + PosgreSQL
+# Integrantes
+Alfredo Montealegre
+Juan Roman
